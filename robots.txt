@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-3e6tpf.ekdone.com/sitemap.xml
